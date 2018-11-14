@@ -1,0 +1,32 @@
+*{  
+    margin: 0 auto;  
+    padding: 0px;  
+}  
+.footerBox{
+    padding: 10px 20px;
+    font-size: 13px;
+    line-height: 20px;
+}
+.contentBox{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 20px 0;
+}
+.box{
+    width: 49%;
+    /* padding: 6px; */
+    padding: 20px 0px;
+    margin: 0;
+}
+img{
+    height: 90px;
+    width: 90px;
+    display: block;
+}
+.border_bottom{
+    border-bottom: 1px solid #b9b4b4;
+}
+.border_right{
+    border-right: 1px solid #b9b4b4;
+}
